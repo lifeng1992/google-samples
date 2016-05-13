@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lf/google-samples/DisplayingBitmaps/Application/build/intermediates/res/merged/debug/layout/image_detail_pager.xml",
+        "source": "/Users/lf/google-samples/DisplayingBitmaps/Application/src/main/res/layout/image_detail_pager.xml"
+    },
+    {
+        "merged": "/Users/lf/google-samples/DisplayingBitmaps/Application/build/intermediates/res/merged/debug/layout/image_grid_fragment.xml",
+        "source": "/Users/lf/google-samples/DisplayingBitmaps/Application/src/main/res/layout/image_grid_fragment.xml"
+    },
+    {
+        "merged": "/Users/lf/google-samples/DisplayingBitmaps/Application/build/intermediates/res/merged/debug/layout/image_detail_fragment.xml",
+        "source": "/Users/lf/google-samples/DisplayingBitmaps/Application/src/main/res/layout/image_detail_fragment.xml"
+    }
+]
