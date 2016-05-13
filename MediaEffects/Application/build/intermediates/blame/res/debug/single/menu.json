@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lf/google-samples/MediaEffects/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/lf/google-samples/MediaEffects/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/lf/google-samples/MediaEffects/Application/build/intermediates/res/merged/debug/menu/media_effects.xml",
+        "source": "/Users/lf/google-samples/MediaEffects/Application/src/main/res/menu/media_effects.xml"
+    }
+]
