@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lf/google-samples/CustomNotifications/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/lf/google-samples/CustomNotifications/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lf/google-samples/CustomNotifications/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/robot.png",
+        "source": "/Users/lf/google-samples/CustomNotifications/Application/src/main/res/drawable-xhdpi/robot.png"
+    },
+    {
+        "merged": "/Users/lf/google-samples/CustomNotifications/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4/robot_expanded.png",
+        "source": "/Users/lf/google-samples/CustomNotifications/Application/src/main/res/drawable-xhdpi/robot_expanded.png"
+    }
+]

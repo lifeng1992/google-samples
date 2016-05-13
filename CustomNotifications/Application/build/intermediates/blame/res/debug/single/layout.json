@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lf/google-samples/CustomNotifications/Application/build/intermediates/res/merged/debug/layout/notification_expanded.xml",
+        "source": "/Users/lf/google-samples/CustomNotifications/Application/src/main/res/layout/notification_expanded.xml"
+    },
+    {
+        "merged": "/Users/lf/google-samples/CustomNotifications/Application/build/intermediates/res/merged/debug/layout/notification.xml",
+        "source": "/Users/lf/google-samples/CustomNotifications/Application/src/main/res/layout/notification.xml"
+    },
+    {
+        "merged": "/Users/lf/google-samples/CustomNotifications/Application/build/intermediates/res/merged/debug/layout/sample_main.xml",
+        "source": "/Users/lf/google-samples/CustomNotifications/Application/src/main/res/layout/sample_main.xml"
+    }
+]
